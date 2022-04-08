@@ -5,5 +5,5 @@ Web scraping, web harvesting, or web data extraction is data scraping used for e
 
 Get Github profile pic by entering the username.
 
-[! Jypter demo](https://github.com/AntImmelman/Social-Engineering/blob/main/Demo/1.png)
-[! Result](https://github.com/AntImmelman/Social-Engineering/blob/main/Demo/2.png)
+![Jypter demo](https://github.com/AntImmelman/Social-Engineering/blob/main/Demo/1.png)
+![Result](https://github.com/AntImmelman/Social-Engineering/blob/main/Demo/2.png)
